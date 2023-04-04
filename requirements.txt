@@ -6,3 +6,4 @@ matplotlib==3.6.3
 matplotlib-inline==0.1.6
 mplsoccer==1.1.10
 highlight-text==0.2
+openpyxl==3.1.1
